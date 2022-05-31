@@ -2,7 +2,7 @@
 
 En este curso aprenderás a programar en Python.
 
-[![Logo de Python]([imagenes\logo-python.png](https://github.com/josejesusguzman/curso-basico-python/blob/main/imagenes/logo-python.png))](https://github.com/josejesusguzman/curso-basico-python/blob/main/imagenes/logo-python.png)
+![Logo de Python](https://github.com/josejesusguzman/curso-basico-python/blob/main/imagenes/logo-python.png)
 
 **Requisitos**
 - Python 3.6 o superior
